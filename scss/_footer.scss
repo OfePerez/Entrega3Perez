@@ -1,0 +1,12 @@
+.footer-container{
+    background-color:$secondary-color;
+        .caja-footer{
+            margin-top: 30px;
+            margin-bottom: 30px;
+                p{
+                    color:$tertiary-color;
+                    text-align: center;
+                    font-size: 1.5em;
+                }
+        }
+}
